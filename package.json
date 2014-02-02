@@ -1,0 +1,14 @@
+{
+  "name": "sc-contains",
+  "version": "0.0.0",
+  "description": "Check if a value exists in an array or an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "David Tsuji",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "~3.0.1"
+  }
+}
